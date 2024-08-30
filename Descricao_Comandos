@@ -1,0 +1,11 @@
+<head> - representa os metadados do documento.
+<title> - define o título do documento HTML.
+<link> - permite outros recursos serem utilizados no documento.
+<body> - componentes do documento.
+<h1> - cabeçalho
+<div> - agrupa elementos.
+<header> - representa a introdução do conteúdo seguinte.
+<p> - representa um paragrafo.
+
+text-align: justify; - alinha o texto de modo formal.
+font-size: - altera o tamanho do texto.
