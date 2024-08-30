@@ -1,0 +1,1 @@
+A branch de teste revisa o código da develop, caso o código esteja correto, manda ele para main, caso não devolve para a develop para corrijir os erros.
